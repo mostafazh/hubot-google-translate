@@ -19,7 +19,7 @@
   "devDependencies": {
     "hubot": "2.x",
     "mocha": "*",
-    "chai": "*",
+    "chai": "1.x",
     "sinon-chai": "*",
     "sinon": "*",
     "grunt-mocha-test": "~0.7.0",
